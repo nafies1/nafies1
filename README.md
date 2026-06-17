@@ -33,7 +33,7 @@ I specialize in transitioning engineering paradigms from standard manual workflo
 
 ### 📦 Featured Engineering Showcases
 
-#### 1. [FamyBuddy — Architecture Showcase](https://github.com/nafies1/famybuddy-showcase) _(Replace with your actual showcase link)_
+#### 1. [FamyBuddy — Architecture Showcase](https://github.com/nafies1/famybuddy-showcase)
 
 _An independent, offline-first Progressive Web App (PWA) built from scratch for family coordination and gamified habit building._
 
